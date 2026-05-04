@@ -5,7 +5,7 @@
 # 👋 Olá, eu sou Volkova
 
 💻 Desenvolvedora focada em Web Design, Front-End e experiências visuais modernas.  
-🎮 Desenvolvedora de jogos utilizando Unreal Engine e Unity.
+🎮 Desenvolvedora de jogos utilizando Unreal Engine e Unity.  
 ⚙️ Trabalho com HTML, CSS, JavaScript, Python, C# e criação de projetos visuais.  
 🛠️ Também tenho experiência com hardware, manutenção e tecnologia em geral.
 
