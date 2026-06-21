@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-# 👋 Olá, eu sou Volkova
+# 👋 Olá, eu sou a Marceline
 
 💻 Desenvolvedora Full Stack, Game Developer e Creative Developer.  
 🎮 Crio jogos utilizando Unreal Engine e Unity.  
