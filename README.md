@@ -6,7 +6,7 @@
 
 💻 Desenvolvedora Full Stack, Game Developer e Creative Developer.  
 🎮 Crio jogos utilizando Unreal Engine e Unity.  
-⚙️ Trabalho com HTML, CSS, JavaScript, Python e C#.  
+⚙️ Gosto de trabalhar principalmente com HTML, CSS, JavaScript, Python e C#.  
 🛠️ Experiência com hardware, tecnologia e desenvolvimento de projetos criativos.
 
 Atualmente desenvolvendo:
